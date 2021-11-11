@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634206241573' stop='1634206289247'>
+    <name>Switch to demo</name>
+    <title>Switch to demo</title>
+    <test-cases>
+        <test-case start='1634206241573' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206241573' status='passed' stop='1634206275700'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7124eda4-a47a-4de8-ab01-32c96990b956-attachment.png' type='image/png' size='14464'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634206275700' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206275700' status='passed' stop='1634206278469'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0cc4d13c-da2d-41cb-b1ca-2f73e520d843-attachment.png' type='image/png' size='14805'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634206278469' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206278469' status='passed' stop='1634206286448'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='70748f98-b669-41d1-b534-0189840d5d3e-attachment.png' type='image/png' size='14905'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634206286448' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206286448' status='passed' stop='1634206289245'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1241f636-39ec-4e32-a4b9-8add041e0bd0-attachment.png' type='image/png' size='14676'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

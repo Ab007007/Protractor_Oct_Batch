@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634208175691' stop='1634208228731'>
+    <name>angularjs homepage</name>
+    <title>angularjs homepage</title>
+    <test-cases>
+        <test-case start='1634208175692' status='undefined'>
+            <name>Addition of two numbers3</name>
+            <title>Addition of two numbers3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634208175692' status='passed' stop='1634208228727'>
+            <name>Addition of two numbers3</name>
+            <title>Addition of two numbers3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f5b5bf18-7ef3-4849-959e-dd34d3d7a794-attachment.png' type='image/png' size='200216'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

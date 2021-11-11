@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634196128245' stop='1634196154145'>
+    <name>Switch to demo</name>
+    <title>Switch to demo</title>
+    <test-cases>
+        <test-case start='1634196128246' status='undefined'>
+            <name>Handling Alerts</name>
+            <title>Handling Alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634196128246' status='passed' stop='1634196142143'>
+            <name>Handling Alerts</name>
+            <title>Handling Alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1a22fd41-a90b-40a0-a77e-9d23fae27db8-attachment.png' type='image/png' size='15692'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634196142143' status='undefined'>
+            <name>Handling window</name>
+            <title>Handling window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634196142143' status='passed' stop='1634196154144'>
+            <name>Handling window</name>
+            <title>Handling window</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e92ea46d-6a87-4ec3-98a2-b395702abe3d-attachment.png' type='image/png' size='23482'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

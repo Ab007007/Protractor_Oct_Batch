@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634120917817' stop='1634120951866'>
+    <name>angularjs homepage</name>
+    <title>angularjs homepage</title>
+    <test-cases>
+        <test-case start='1634120917818' status='undefined'>
+            <name>Addition of two numbers1</name>
+            <title>Addition of two numbers1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634120917818' status='passed' stop='1634120946154'>
+            <name>Addition of two numbers1</name>
+            <title>Addition of two numbers1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9c2a81df-0be1-4a27-bce5-56b7303ba86a-attachment.png' type='image/png' size='14819'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634120946155' status='undefined'>
+            <name>Addition of two numbers2</name>
+            <title>Addition of two numbers2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634120946155' status='passed' stop='1634120949117'>
+            <name>Addition of two numbers2</name>
+            <title>Addition of two numbers2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3368aed2-6178-4d8d-98fa-dfdc43228994-attachment.png' type='image/png' size='15108'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634120949117' status='undefined'>
+            <name>Addition of two numbers3</name>
+            <title>Addition of two numbers3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634120949117' status='passed' stop='1634120951864'>
+            <name>Addition of two numbers3</name>
+            <title>Addition of two numbers3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5b5cfa05-dab6-45e1-8643-0b04cc3ec03f-attachment.png' type='image/png' size='15396'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

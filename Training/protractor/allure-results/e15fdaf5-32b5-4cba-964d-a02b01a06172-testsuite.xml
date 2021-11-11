@@ -1,0 +1,215 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634206139754' stop='1634206184100'>
+    <name>Switch to demo</name>
+    <title>Switch to demo</title>
+    <test-cases>
+        <test-case start='1634206139754' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206139754' status='failed' stop='1634206175636'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1c13f783-64ec-40c1-a6c1-cd85d5a5ff66-attachment.png' type='image/png' size='14188'/>
+            </attachments>
+            <failure>
+                <message>Failed: operation is not defined</message>
+                <stack-trace>ReferenceError: operation is not defined
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:14:34
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: Run it("Element inside a frame") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                From asynchronous test: 
+                Error
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:8:5
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:25:22
+                    at Array.forEach (&lt;anonymous>)
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:20:20
+                    at Suite.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:6:3)
+                    at addSpecsToSuite (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:4:1)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1634206175636' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206175636' status='failed' stop='1634206178386'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ee10579f-5792-4472-a48f-40caf95f91b1-attachment.png' type='image/png' size='14955'/>
+            </attachments>
+            <failure>
+                <message>Failed: operation is not defined</message>
+                <stack-trace>ReferenceError: operation is not defined
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:14:34
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: Run it("Element inside a frame") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:8:5
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:25:22
+                    at Array.forEach (&lt;anonymous>)
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:20:20
+                    at Suite.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:6:3)
+                    at addSpecsToSuite (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:4:1)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1634206178386' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206178386' status='failed' stop='1634206181344'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='96624a09-86b4-4088-8559-f01896fc3d26-attachment.png' type='image/png' size='14995'/>
+            </attachments>
+            <failure>
+                <message>Failed: operation is not defined</message>
+                <stack-trace>ReferenceError: operation is not defined
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:14:34
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: Run it("Element inside a frame") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:8:5
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:25:22
+                    at Array.forEach (&lt;anonymous>)
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:20:20
+                    at Suite.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:6:3)
+                    at addSpecsToSuite (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:4:1)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1634206181344' status='undefined'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634206181344' status='failed' stop='1634206184099'>
+            <name>Element inside a frame</name>
+            <title>Element inside a frame</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2679cd1b-d815-4c4b-957e-27355aaeb908-attachment.png' type='image/png' size='14682'/>
+            </attachments>
+            <failure>
+                <message>Failed: operation is not defined</message>
+                <stack-trace>ReferenceError: operation is not defined
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:14:34
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\built\element.js:804:32
+                    at ManagedPromise.invokeCallback_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                From: Task: Run it("Element inside a frame") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at QueueRunner.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
+                    at Spec.execute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
+                    at UserContext.fn (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
+                    at attempt (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at D:\synechron_11_10_Protractor\Training\protractor\development.js:8:5
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:25:22
+                    at Array.forEach (&lt;anonymous>)
+                    at D:\synechron_11_10_Protractor\Training\protractor\node_modules\jasmine-data-provider\src\index.js:20:20
+                    at Suite.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:6:3)
+                    at addSpecsToSuite (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\development.js:4:1)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

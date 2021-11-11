@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634209866378' stop='1634209903929'>
+    <name>Addition Test</name>
+    <title>Addition Test</title>
+    <test-cases>
+        <test-case start='1634209866379' status='undefined'>
+            <name>Addition Valid Scenario </name>
+            <title>Addition Valid Scenario </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634209866379' status='passed' stop='1634209898824'>
+            <name>Addition Valid Scenario </name>
+            <title>Addition Valid Scenario </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c3acdd18-408f-4bd1-94fc-06fefd77309c-attachment.png' type='image/png' size='14834'/>
+            </attachments>
+        </test-case>
+        <test-case start='1634209898824' status='undefined'>
+            <name>Addition Invalid Scenario </name>
+            <title>Addition Invalid Scenario </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634209898824' status='failed' stop='1634209903926'>
+            <name>Addition Invalid Scenario </name>
+            <title>Addition Invalid Scenario </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='472ca55b-22bd-496c-8205-e25f05617f4a-attachment.png' type='image/png' size='14604'/>
+            </attachments>
+            <failure>
+                <message>Expected '60' to equal '40'.</message>
+                <stack-trace>Error: Failed expectation
+                    at homepage.Go (D:\synechron_11_10_Protractor\Training\protractor\page\CalculatorHomePage.js:19:34)
+                    at UserContext.&lt;anonymous> (D:\synechron_11_10_Protractor\Training\protractor\test\AdditionTest.js:17:18)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
